@@ -1,0 +1,23 @@
+{
+  "employees": [
+    {
+      "firstName": "raviii",
+      "lastName": "singh",
+      "email": "ravi@gmail.com",
+      "dob": "2024-09-30T18:30:00.000Z",
+      "gender": "male",
+      "education": "pg",
+      "company": "kaplan",
+      "experience": 1,
+      "package": 12,
+      "id": "d89c"
+    }
+  ],
+  "archa": [
+    {
+      "name": "archa",
+      "age": 20,
+      "id": "313c"
+    }
+  ]
+}
